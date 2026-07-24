@@ -1,1 +1,2 @@
-[Nothing Yet]
+- Finished a brief course in Kotlin.
+- Built a simple **Hello World** on my own.
