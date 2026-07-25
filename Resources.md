@@ -13,3 +13,5 @@
 ## Videos:
 - JetBrains YouTube.
 - Philipp Lackner YouTube.
+
+More info needed from independence sources
